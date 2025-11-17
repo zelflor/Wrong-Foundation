@@ -9,6 +9,7 @@ export function meta({}: Route.MetaArgs) {
 
 export default function Entities() {
   return <>
+  drewen est racist
   </>;
 
 }
