@@ -1,4 +1,4 @@
-import type { Route } from "./+types/home";
+import type { Route } from "./+types/entities";
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -7,9 +7,8 @@ export function meta({}: Route.MetaArgs) {
   ];
 }
 
-export default function Home() {
+export default function Entities() {
   return <>
-    
   </>;
 
 }
